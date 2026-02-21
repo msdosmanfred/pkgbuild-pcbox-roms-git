@@ -1,0 +1,4 @@
+[pcbox-roms-git]
+source = "git"
+git = "https://github.com/PCBox/roms.git"
+prefix = "v"
