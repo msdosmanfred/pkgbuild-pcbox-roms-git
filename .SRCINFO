@@ -1,8 +1,8 @@
 pkgbase = pcbox-roms-git
-	pkgdesc = ROMs for the 86Box emulator
-	pkgver = 20220701
+	pkgdesc = ROMs for the PCBox emulator
+	pkgver = ad149bfe0e9421e3cd23b43b291ee01f9de41a01
 	pkgrel = 1
-	url = https://github.com/86Box/roms
+	url = https://github.com/PCBox/roms
 	arch = any
 	license = custom
 	makedepends = git
