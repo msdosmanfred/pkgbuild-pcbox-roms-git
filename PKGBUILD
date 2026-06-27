@@ -1,6 +1,6 @@
 # Maintainer: MS-DOS Manfred
 pkgname=pcbox-roms-git
-pkgver=3f1ae1f9c7e803792fc25ba570a835f50389e1ce
+pkgver=6.0.r27.g988c02b
 pkgrel=1
 pkgdesc='ROMs for the PCBox emulator'
 arch=('any')
